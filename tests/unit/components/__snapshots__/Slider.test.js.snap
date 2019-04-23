@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Slider should displays the data 1`] = `
+<div class="Slider">
+  <b-carousel-stub id="carousel-1" labelprev="Previous Slide" labelnext="Next Slide" labelgotoslide="Goto Slide" labelindicators="Select a slide to display" interval="3000" indicators="true" controls="true" fade="true" background="#ababab" value="0" class="Carousel">
+    <b-carousel-slide-stub imgblankcolor="transparent" contenttag="div" captiontag="h3" texttag="p"><img height="720" src="https://images.unsplash.com/photo-1555582882-3adcea584e86?ixlib=rb-1.2.1&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjY3OTM0fQ" alt="image slot" class="d-block w-100">
+      <p>Photo by David Billings</p>
+    </b-carousel-slide-stub>
+    <b-carousel-slide-stub imgblankcolor="transparent" contenttag="div" captiontag="h3" texttag="p"><img height="720" src="https://images.unsplash.com/photo-1553570525-4985c3f932a6?ixlib=rb-1.2.1&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjY3OTM0fQ" alt="image slot" class="d-block w-100">
+      <p>Photo by Mae Mu</p>
+    </b-carousel-slide-stub>
+    <b-carousel-slide-stub imgblankcolor="transparent" contenttag="div" captiontag="h3" texttag="p"><img height="720" src="https://images.unsplash.com/photo-1554935456-8b221f01dd2b?ixlib=rb-1.2.1&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjY3OTM0fQ" alt="image slot" class="d-block w-100">
+      <p>Photo by Roberto Nickson</p>
+    </b-carousel-slide-stub>
+    <b-carousel-slide-stub imgblankcolor="transparent" contenttag="div" captiontag="h3" texttag="p"><img height="720" src="https://images.unsplash.com/photo-1553978650-0b59ecf2c36f?ixlib=rb-1.2.1&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjY3OTM0fQ" alt="image slot" class="d-block w-100">
+      <p>Photo by Janis Karkossa</p>
+    </b-carousel-slide-stub>
+    <b-carousel-slide-stub imgblankcolor="transparent" contenttag="div" captiontag="h3" texttag="p"><img height="720" src="https://images.unsplash.com/photo-1555157054-4ee7fedaa49c?ixlib=rb-1.2.1&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjY3OTM0fQ" alt="image slot" class="d-block w-100">
+      <p>Photo by Brandon Vázquez</p>
+    </b-carousel-slide-stub>
+  </b-carousel-stub>
+</div>
+`;
